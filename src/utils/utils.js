@@ -1,3 +1,5 @@
-export default function addNumber(a, b){
+function addNumber(a, b){
   return a + b;
 }
+
+export default addNumber;
